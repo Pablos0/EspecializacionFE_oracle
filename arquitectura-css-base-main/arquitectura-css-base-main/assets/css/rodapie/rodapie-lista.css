@@ -1,0 +1,12 @@
+.rodapie__lista {
+    display: flex;
+
+}
+
+.rodapie__item {
+    list-style: none;
+}
+
+.rodapie__icon {
+    margin-right: 1.25rem;
+}
